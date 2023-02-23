@@ -1,0 +1,25 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Steganography and Cryptography/*
+!/Steganography and Cryptography/task/
+/Steganography and Cryptography/task/*
+!/Steganography and Cryptography/task/src/
+!/Steganography and Cryptography/task/build.gradle
+!/Steganography and Cryptography/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Image colors/Print color/out/
+/Topics/Image colors/Print color/out/production/classes/
